@@ -1,4 +1,4 @@
-## Aggregating Global Features into Local VisionTransformer(MOA-Transformer)
+## Aggregating Global Features into Local Vision Transformer(MOA-Transformer)
 
 ### Requirements
    python = 3.7 <br />
