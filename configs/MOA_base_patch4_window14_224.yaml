@@ -1,0 +1,9 @@
+MODEL:
+  TYPE: MOA
+  NAME: MOA_base_patch4_window14_224
+  DROP_PATH_RATE: 0.4
+  MOA:
+    EMBED_DIM: 128
+    DEPTHS: [ 2, 2, 20 ]
+    NUM_HEADS: [ 4, 8, 16]
+    WINDOW_SIZE: 14
